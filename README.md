@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 😄 I am Younes Abourrig Junior Full Stack Web Developer
 - 🌱 I’m currently learning REACT JS and LARAVEl
-- Contact : younesabourrig@gmail.com
+- Contact : [my email](younesabourrig@gmail.com)
 <!--
 **younesabourrig01/younesabourrig01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

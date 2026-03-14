@@ -7,9 +7,9 @@ My LinkedIn: [LinkedIn](https://www.linkedin.com/feed/)
 ## Top Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younesabourrig01&layout=compact&theme=tokyonight)
 
-## 🚀 Technologies I Use
+## Technologies I Use
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,mysql,go,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,express,css,js,ts,php,laravel,mysql,git,github" />
 </p>
 <!--
 **younesabourrig01/younesabourrig01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

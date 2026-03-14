@@ -2,6 +2,12 @@
 - 😄 I am Younes Abourrig Junior Full Stack Web Developer
 - 🌱 I’m currently learning REACT JS and LARAVEl
 - Contact : My email: younesabourrig@gmail.com, My LinkedIn: [LinkedIn](https://www.linkedin.com/feed/)
+  
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=younesabourrig01&show_icons=true&theme=tokyonight)
+
+## 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younesabourrig01&layout=compact&theme=tokyonight)
 <!--
 **younesabourrig01/younesabourrig01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

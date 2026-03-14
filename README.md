@@ -3,10 +3,14 @@
 - 🌱 I’m currently learning REACT JS and LARAVEl
 - 📫 How to reach me: My email: younesabourrig@gmail.com, 
 My LinkedIn: [LinkedIn](https://www.linkedin.com/feed/)
-  
 
-## Top Languages
+## Top Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younesabourrig01&layout=compact&theme=tokyonight)
+
+## 🚀 Technologies I Use
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,mysql,go,git,github,vscode" />
+</p>
 <!--
 **younesabourrig01/younesabourrig01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -6,7 +6,7 @@ My LinkedIn: [LinkedIn](https://www.linkedin.com/feed/)
 
 ## Technologies I Use
 <p>
-<img src="https://skillicons.dev/icons?i=html,express,css,js,react,ts,php,laravel,mysql,mongodb,git,github" />
+<img src="https://skillicons.dev/icons?i=express,golang,css,js,react,php,laravel,mysql,mongodb,git,github" />
 </p>
 <!--
 **younesabourrig01/younesabourrig01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

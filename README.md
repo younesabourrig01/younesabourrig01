@@ -6,7 +6,7 @@ My LinkedIn: [LinkedIn](https://www.linkedin.com/feed/)
 
 ## Technologies I Use
 <p>
-<img src="https://skillicons.dev/icons?i=express,golang,python,js,react,php,laravel,mysql,mongodb,git" />
+<img src="https://skillicons.dev/icons?i=express,js,react,php,laravel,mysql,mongodb,git" />
 </p>
 
 ## Technologies I Interested to learn 

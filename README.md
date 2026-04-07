@@ -8,6 +8,11 @@ My LinkedIn: [LinkedIn](https://www.linkedin.com/feed/)
 <p>
 <img src="https://skillicons.dev/icons?i=express,golang,python,js,react,php,laravel,mysql,mongodb,git" />
 </p>
+
+## Technologies I Interested to learn 
+<p>
+<img src="https://skillicons.dev/icons?i=golang,python,java" />
+</p>
 <!--
 **younesabourrig01/younesabourrig01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

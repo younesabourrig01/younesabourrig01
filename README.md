@@ -5,7 +5,7 @@
 My LinkedIn: [LinkedIn](https://www.linkedin.com/feed/)
 
 ## GitHub Stat
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=younesabourrig01&layout=compact)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=younesabourrig01&layout=compacttheme=tokyonight)
 
 ## Technologies I Use
 <p>

@@ -7,7 +7,7 @@
 
 ## GitHub Stat
 
-![My Stats](https://github.com/younesabourrig01/younesabourrig01/blob/main/github-metrics.svg?raw=true)
+![My Language Stats](https://github.com/younesabourrig01/younesabourrig01/raw/main/github-metrics.svg)
 
 ## Technologies I Use
 

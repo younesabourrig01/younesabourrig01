@@ -7,7 +7,7 @@
 
 ## GitHub Stat
 
-![Language Stats](stats/leaderboard_by_lines.png)
+![Language Stats](github-metrics.svg)
 
 ## Technologies I Use
 
@@ -20,5 +20,3 @@
 <p>
 <img src="https://skillicons.dev/icons?i=golang,python,java,ts" />
 </p>
-
-

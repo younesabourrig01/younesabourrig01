@@ -1,20 +1,18 @@
-name: Update Language Statistics
+name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    - cron: "0 0 * * *" # Runs every day at midnight
+  workflow_dispatch: # Allows you to run it manually
 
 jobs:
-  update-stats:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: stefvuck/github-profile-language-analytics@v1.1.0
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Language Stats
+        uses: stefanzweifel/github-profile-language-analytics@v1.1.0
         with:
-          github_token: ${{ secrets.STATS_TOKEN }}
-          visualization_types: "leaderboard"
-          output_path: "stats"
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}

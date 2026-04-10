@@ -11,7 +11,7 @@ My LinkedIn: [LinkedIn](https://www.linkedin.com/feed/)
 
 ## Technologies I Interested to learn 
 <p>
-<img src="https://skillicons.dev/icons?i=golang,python,java,typescript" />
+<img src="https://skillicons.dev/icons?i=golang,python,java,ts" />
 </p>
 <!--
 **younesabourrig01/younesabourrig01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -7,7 +7,7 @@
 
 ## GitHub Stat
 
-![My Skills](github-metrics.svg)
+![Stats](github-metrics.svg?v=1)
 
 ## Technologies I Use
 

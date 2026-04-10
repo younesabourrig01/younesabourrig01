@@ -5,7 +5,7 @@
 My LinkedIn: [LinkedIn](https://www.linkedin.com/feed/)
 
 ## GitHub Stat
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=[younesabourrig01]&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=younesabourrig01&theme=dracula)
 
 ## Technologies I Use
 <p>

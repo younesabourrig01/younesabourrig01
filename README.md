@@ -7,7 +7,7 @@
 
 ## GitHub Stat
 
-![Stats](github-metrics.svg?v=1)
+![My Stats](https://github.com/younesabourrig01/younesabourrig01/blob/main/github-metrics.svg?raw=true)
 
 ## Technologies I Use
 

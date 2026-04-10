@@ -4,6 +4,9 @@
 - 📫 How to reach me: My email: younesabourrig@gmail.com, 
 My LinkedIn: [LinkedIn](https://www.linkedin.com/feed/)
 
+## Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=vision-friendly-dark)
+
 ## Technologies I Use
 <p>
 <img src="https://skillicons.dev/icons?i=express,js,react,php,laravel,mysql,mongodb,git" />

@@ -4,8 +4,8 @@
 - 📫 How to reach me: My email: younesabourrig@gmail.com, 
 My LinkedIn: [LinkedIn](https://www.linkedin.com/feed/)
 
-## Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=vision-friendly-dark)
+## GitHub Stat
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)
 
 ## Technologies I Use
 <p>

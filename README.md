@@ -1,17 +1,22 @@
 ## Hi there 👋
+
 - 😄 I am Younes Abourrig Junior Full Stack Web Developer
 - 🌱 I’m currently learning REACT JS and LARAVEl
-- 📫 How to reach me: My email: younesabourrig@gmail.com, 
-My LinkedIn: [LinkedIn](https://www.linkedin.com/feed/)
+- 📫 How to reach me: My email: younesabourrig@gmail.com,
+  My LinkedIn: [LinkedIn](https://www.linkedin.com/feed/)
 
 ## GitHub Stat
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=younesabourrig01&layout=compact)
+
+![Language Stats](stats/leaderboard_by_lines.png)
+
 ## Technologies I Use
+
 <p>
 <img src="https://skillicons.dev/icons?i=express,js,react,php,laravel,mysql,mongodb,git" />
 </p>
 
-## Technologies I Interested to learn 
+## Technologies I Interested to learn
+
 <p>
 <img src="https://skillicons.dev/icons?i=golang,python,java,ts" />
 </p>
@@ -28,4 +33,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->

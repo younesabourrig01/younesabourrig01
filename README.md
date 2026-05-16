@@ -18,5 +18,5 @@
 ## Technologies I Interested to learn
 
 <p>
-<img src="https://skillicons.dev/icons?i=golang,python,java,ts" />
+<img src="https://skillicons.dev/icons?i=golang,python,java,ts,rust" />
 </p>

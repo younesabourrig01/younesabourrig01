@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 - I am Younes Abourrig Junior Full Stack Web Developer
-- I’m currently learning REACT JS and LARAVEl
 - How to reach me: My email: younesabourrig@gmail.com,
   My LinkedIn: [LinkedIn](https://www.linkedin.com/feed/)
 
@@ -18,5 +17,5 @@
 ## Technologies I Interested to learn
 
 <p>
-<img src="https://skillicons.dev/icons?i=golang,python" />
+<img src="https://skillicons.dev/icons?i=golang,python,docker" />
 </p>

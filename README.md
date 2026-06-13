@@ -2,7 +2,7 @@
 
 - I am Younes Abourrig Junior Full Stack Web Developer
 - How to reach me: My email: younesabourrig@gmail.com,
-  My LinkedIn: [LinkedIn](https://www.linkedin.com/feed/)
+  My LinkedIn: [LinkedIn](https://www.linkedin.com/in/younes-abourrig-08103a338/)
 
 ## GitHub Stat
 

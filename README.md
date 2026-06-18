@@ -5,11 +5,7 @@
   My LinkedIn: [LinkedIn](https://www.linkedin.com/in/younes-abourrig-08103a338/)
 
 ## GitHub Stat
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=younesabourrig01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younesabourrig01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" alt="Languages" />
-</p>
+![My Language Stats](https://github.com/younesabourrig01/younesabourrig01/raw/main/github-metrics.svg)
 
 ## Technologies I Use
 

@@ -16,6 +16,6 @@ jobs:
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
-          plugin_languages_ignored: html,blade,DockerFile,BatchFile
+          plugin_languages_ignored: html,blade,DockerFile,BatchFile,Hack
           plugin_languages_limit: 10
           filename: github-metrics.svg

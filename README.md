@@ -5,7 +5,7 @@
   My LinkedIn: [LinkedIn](https://www.linkedin.com/in/younes-abourrig-08103a338/)
 
 ## GitHub Stat
-![My Language Stats](https://github.com/younesabourrig01/younesabourrig01/raw/main/github-metrics.svg)
+<img src="https://raw.githubusercontent.com/younesabourrig01/younesabourrig01/main/github-metrics.svg" alt="GitHub Metrics" />
 
 ## Technologies I Use
 

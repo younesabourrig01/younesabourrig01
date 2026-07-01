@@ -3,6 +3,11 @@
 - I am Younes Abourrig Junior Full Stack Web Developer
 - How to reach me: My email: younesabourrig@gmail.com,
   My LinkedIn: [LinkedIn](https://www.linkedin.com/in/younes-abourrig-08103a338/)
+  
+## Technologies I Use
+<p>
+<img src="https://skillicons.dev/icons?i=express,react,laravel,mysql,mongodb" />
+</p>
 
 ## GitHub Stat
 <img  />
@@ -11,14 +16,7 @@
   <!-- <img src="https://raw.githubusercontent.com/younesabourrig01/younesabourrig01/stats-output/stats.svg" alt="Stats Card" width="48%" /> -->
 </p>
 
-## Technologies I Use
-
-<p>
-<img src="https://skillicons.dev/icons?i=express,react,laravel,mysql,mongodb" />
-</p>
-
 ## Technologies I Interested to learn
-
 <p>
 <img src="https://skillicons.dev/icons?i=golang,python,docker,ubuntu" />
 </p>

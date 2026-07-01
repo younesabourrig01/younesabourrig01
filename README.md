@@ -7,7 +7,7 @@
 ## GitHub Stat
 <img  />
 <p align="center">
-  <img src="https://raw.githubusercontent.com/younesabourrig01/younesabourrig01/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/younesabourrig01/younesabourrig01/main/github-metrics.svg" alt="GitHub Metrics" height="200px" width="100%" />
   <!-- <img src="https://raw.githubusercontent.com/younesabourrig01/younesabourrig01/stats-output/stats.svg" alt="Stats Card" width="48%" /> -->
 </p>
 

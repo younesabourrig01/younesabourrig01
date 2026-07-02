@@ -11,7 +11,7 @@
 
 ## Technologies I Interested to learn
 <p>
-<img src="https://skillicons.dev/icons?i=golang,pygame,docker,linux" />
+<img src="https://skillicons.dev/icons?i=golang,python,docker,linux" />
 </p>
 
 ## GitHub Stat

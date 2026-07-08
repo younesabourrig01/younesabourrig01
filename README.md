@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - I am Younes Abourrig Junior Full Stack Web Developer
-- How to reach me: My email: younesabourrig@gmail.com,[LinkedIn](https://www.linkedin.com/in/younes-abourrig-08103a338/)
+- How to reach me: My email: younesabourrig@gmail.com, [LinkedIn](https://www.linkedin.com/in/younes-abourrig-08103a338/)
   
 ## Technologies I Use
 <p>
@@ -10,7 +10,7 @@
 
 ## Technologies I Interested to learn
 <p>
-<img src="https://skillicons.dev/icons?i=golang,python,docker,linux" />
+<img src="https://skillicons.dev/icons?i=golang,python,docker" />
 </p>
 
 ## GitHub Stat

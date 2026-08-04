@@ -2,7 +2,9 @@
 
 - I am Younes Abourrig Junior Full Stack Web Developer
 - How to reach me: younesabourrig@gmail.com, [LinkedIn](https://www.linkedin.com/in/younes-abourrig-08103a338/)
-- my portfolio: [younes's Portfolio](https://portfolio-bice-omega-31.vercel.app/)
+<!-- <p>
+  - my portfolio: [younes's Portfolio]()
+</p> -->
   
 ## Technologies I Use
 <p>

@@ -13,7 +13,7 @@
 
 ## Technologies I Interested to learn
 <p>
-<img src="https://skillicons.dev/icons?i=golang,python,docker" />
+<img src="https://skillicons.dev/icons?i=golang,python,docker,springboot" />
 </p>
 
 <!-- ## GitHub Stat -->

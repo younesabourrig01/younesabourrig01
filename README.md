@@ -20,7 +20,6 @@
 <img  /> 
  <p align="center"> 
    <img src="https://raw.githubusercontent.com/younesabourrig01/younesabourrig01/main/github-metrics.svg" alt="GitHub Metrics"  /> 
-  <img src="https://raw.githubusercontent.com/younesabourrig01/younesabourrig01/stats-output/stats.svg" alt="Stats Card" width="48%" /> 
 </p> 
 
 <picture>

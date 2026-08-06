@@ -17,10 +17,8 @@
 </p>
 
 ## GitHub Stat 
-<img  /> 
- <p align="center"> 
-     ![Language Stats](stats/leaderboard_by_lines.png) 
-</p> 
+<img src=" ![Language Stats](stats/leaderboard_by_lines.png)" /> 
+    
 
 
 <picture>

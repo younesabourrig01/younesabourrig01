@@ -17,7 +17,7 @@
 </p>
 
 ## GitHub Stat 
-[Language Stats](stats/leaderboard_by_lines.png)
+![Language Stats](stats/leaderboard_by_lines.png)
 
 ## :)
 <picture>

@@ -19,9 +19,8 @@ jobs:
           output_path: "stats"
           plugin_languages: yes
           plugin_languages_sections: most-used
-          plugin_languages_ignored: html, blade, Dockerfile, Batchfile, Hack
           plugin_languages_limit: 10
           visualization_types: "leaderboard bar pie donut"
           include_forks: "true"
-          dark_mode: "true"
+          exclude_languages:  html, blade, Dockerfile, Batchfile, Hack
           use_loc: "true"

@@ -17,10 +17,9 @@
 </p>
 
 ## GitHub Stat 
-<img src=" ![Language Stats](stats/leaderboard_by_lines.png)" /> 
-    
+![Language Stats](stats/leaderboard_by_lines.png)
 
-
+## :)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/younesabourrig01/younesabourrig01/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/younesabourrig01/younesabourrig01/pacman-output/pacman-contribution-graph.svg">

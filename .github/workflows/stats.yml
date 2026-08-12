@@ -22,5 +22,5 @@ jobs:
           plugin_languages_limit: 15
           visualization_types: "leaderboard bar pie donut"
           include_forks: "true"
-          exclude_languages:  html, blade, dockerfile, batchfile, Hack, shill
+          exclude_languages: "html,blade,Dockerfile,batchfile,Hack,Shell,bash"
           use_loc: "true"

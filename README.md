@@ -4,8 +4,8 @@
 - How to reach me:
   - younesabourrig@gmail.com,
   - [LinkedIn](https://www.linkedin.com/in/younes-abourrig-08103a338/)
-- my portfolio: [younes's Portfolio](https://myportfolio-phi-seven-63.vercel.app/)
-
+- my portfolio:
+  - [younes's Portfolio](https://myportfolio-phi-seven-63.vercel.app/)
   
 ## Technologies I Use
 <p>
@@ -14,7 +14,7 @@
 
 ## Technologies I Interested to learn
 <p>
-<img src="https://skillicons.dev/icons?i=golang,python,java" />
+<img src="https://skillicons.dev/icons?i=golang,python,java,node" />
 </p>
 
 ## GitHub Stat 

@@ -14,7 +14,7 @@
 
 ## Technologies I Interested to learn
 <p>
-<img src="https://skillicons.dev/icons?i=golang,python,java,node" />
+<img src="https://skillicons.dev/icons?i=golang,python,java,nodejs,nextjs" />
 </p>
 
 ## GitHub Stat 

@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I am Younes Abourrig Junior Full Stack Web Developer
+- I am Younes Abourrig Full Stack Developer & Mobile Development Student
 - How to reach me:
   - younesabourrig@gmail.com,
   - [LinkedIn](https://www.linkedin.com/in/younes-abourrig-08103a338/)

@@ -9,12 +9,12 @@
   
 ## Technologies I Use
 <p>
-<img src="https://skillicons.dev/icons?i=express,react,laravel,mysql,mongodb,docker" />
+<img src="https://skillicons.dev/icons?i=express,react,laravel,mysql,mongodb,docker,astro" />
 </p>
 
 ## Technologies I Interested to learn
 <p>
-<img src="https://skillicons.dev/icons?i=golang,python,typescript,astro" />
+<img src="https://skillicons.dev/icons?i=golang,typescript,flutter,springboot" />
 </p>
 
 <!--  

@@ -17,10 +17,10 @@
 <img src="https://skillicons.dev/icons?i=golang,typescript,flutter,cpp" />
 </p>
 
-<!--  
+<!--  -->
 ## GitHub Stat 
 ![Language Stats](stats/leaderboard_by_weighted.png)
--->
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/younesabourrig01/younesabourrig01/pacman-output/pacman-contribution-graph-dark.svg">

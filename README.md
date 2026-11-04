@@ -14,7 +14,7 @@
 
 ## Technologies I Interested to learn
 <p>
-<img src="https://skillicons.dev/icons?i=golang,typescript,flutter,spring" />
+<img src="https://skillicons.dev/icons?i=golang,typescript,flutter" />
 </p>
 
 <!--  

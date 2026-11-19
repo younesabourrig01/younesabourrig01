@@ -9,7 +9,7 @@
   
 ## Technologies I Use
 <p>
-<img src="https://skillicons.dev/icons?i=express,react,laravel,mysql,mongodb,docker,astro" />
+<img src="https://skillicons.dev/icons?i=express,react,laravel,mysql,mongodb,docker,astro,electron" />
 </p>
 
 ## Technologies I Interested to learn
